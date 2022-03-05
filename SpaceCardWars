@@ -1,0 +1,17 @@
+git SpaceCardWars
+git spaceship_cards
+git enemy_cards
+git hero_cards
+git alien_cards
+git flag_cards
+git planet_cards
+git prepare_battle_cards_for_card_players
+git essemble_cards_for_players
+git begin_Space_Card_Wars
+git draw_card_for_battle
+git use_card_hint_for_next_player's_move
+git take_other_player_card_for_next_battle
+git engage_card_battle_for_Space_assault
+git finalize_battle_for_cards_remaining
+git finish_remaining_move_of_last_player's_defense
+git remain_last_man_standing_win_the_Space_Card_Wars
